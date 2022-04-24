@@ -25,7 +25,7 @@ body {
 
 #container {
     width: 70%;
-    padding: 0;
+    padding: 2em;
     text-align: left;
     border: 1px solid rgb(221, 221, 221);
     margin: 0 auto;
