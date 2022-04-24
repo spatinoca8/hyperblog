@@ -1,5 +1,20 @@
 body {
-    color: brown;
+    color: #333;
     text-align: center;
     font-family: 'Gill Sans';
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 70%;
+    padding: 2em;
+    text-align: left;
+    border: 1px solid rgb(221, 221, 221);
+    margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 20px;
 }
